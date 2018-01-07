@@ -1,0 +1,1 @@
+& "C:\Program Files\AutoHotkey\Compiler\Ahk2Exe.exe" /in .\src\Chapelilo.ahk /out Chapelilo.exe /icon .\src\Icon.ico
